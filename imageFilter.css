@@ -31,11 +31,12 @@ body {
 h1 {
   color: rgb(182, 11, 11);
   font-size: 33px;
+  padding-top: 10px;
 }
 
 .menu {
   margin: 30px auto;
-}
+  }
 .menu a {
   margin: auto 30px;
   text-decoration: none;
